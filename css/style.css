@@ -880,7 +880,7 @@ padding-left: 5.5% !important;
 
 #scroll-down-animation {
   position: absolute;
-  top: 80%;
+  top: 24%;
   left: 90%;
   transform: translate(-50%,-50%);
 }
@@ -940,7 +940,7 @@ h2 {
 }
 #scroll-down-animation {
   position: absolute;
-  top: 90%;
+  top: 30%;
   left: 90%;
   transform: translate(-50%,-50%);
 }
